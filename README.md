@@ -19,5 +19,5 @@ Programming as a hobby since 2017, i’m currently learning TypeScript
 
 <div>
   <a href="https://discord.gg/MdZahXj" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  ![Snake animation](https://raw.githubusercontent.com/SuperOuro/SuperOuro/main/.github/workflows/snakeanimation.yml)
+  ![Snake animation](https://raw.githubusercontent.com/SuperOuro/SuperOuro/main/.github/workflows/snakeanimation.svg)
 </div>
