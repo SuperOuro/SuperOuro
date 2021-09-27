@@ -4,8 +4,8 @@ Programming as a hobby since 2017, i’m currently learning TypeScript
 
 <div>
   <a href="https://github.com/SuperOuro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuperOuro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperOuro&layout=compact&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SuperOuro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperOuro&layout=compact&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
