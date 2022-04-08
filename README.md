@@ -1,5 +1,5 @@
 ### i'm SuperOuro ,
-Programming as a hobby since 2017, i’m currently learning C++
+Programming as a hobby since 2017, i’m currently learning TypeScript
 ##
 
 <div>
