@@ -4,8 +4,8 @@ Programming since 2017
 
 <div>
   <a href="https://github.com/SuperOuro">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SuperOuro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperOuro&layout=compact&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SuperOuro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SuperOuro&layout=compact&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
